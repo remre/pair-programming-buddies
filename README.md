@@ -1,6 +1,3 @@
-# pair-programming-buddies# pair-programming-buddies
-# pair-programming-buddies
-# pair-programming-buddies
-# pair-programming-buddies
 # pair-programming-buddies
 
+Work in pair to learn github
