@@ -1,5 +1,4 @@
 # pair-programming-buddies
 
-Work in pair to learn github
+hello i am chompy [resolved]
 
-hello im chompy
