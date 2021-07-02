@@ -1,4 +1,4 @@
 # pair-programming-buddies
 
+hello i am chompy [resolved]
 
-hello i am chompy
